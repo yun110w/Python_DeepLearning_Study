@@ -7,6 +7,7 @@
 |2주차|김도율|https://kdy3138710.tistory.com/2|
 |2주차|김세엽|https://ang-love-chang.tistory.com/26|
 |2주차|김세엽|https://github.com/user-attachments/assets/23eff274-70e4-457c-a368-ac5381d7a0f7|
+
 |3주차|송지윤|https://ai0-0jiyun.tistory.com/10|
 |3주차|주은결|https://mathbang.net/562#gsc.tab=0|
 |3주차|김동욱|=|
