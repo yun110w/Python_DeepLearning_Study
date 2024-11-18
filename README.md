@@ -8,7 +8,7 @@
 |2주차|김세엽|https://ang-love-chang.tistory.com/26|
 |2주차|김세엽|https://github.com/user-attachments/assets/23eff274-70e4-457c-a368-ac5381d7a0f7|
 |3주차|송지윤|https://ai0-0jiyun.tistory.com/10|
-|3주차|주은결|행렬의 개염 이해](https://mathbang.net/562#gsc.tab=0) [행렬곱으로 신경망 나타내기](https://wikidocs.net/150781)|
+|3주차|주은결|https://mathbang.net/562#gsc.tab=0|
 |3주차|김동욱|=|
 |3주차|김도율|=|
 |3주차|김세엽|=|
@@ -24,6 +24,9 @@
 |5주차|김동욱|=|
 |5주차|김도율|=|
 |5주차|김세엽|=|
-
-|3주차|주은결|[행렬의 개염 이해](https://mathbang.net/562#gsc.tab=0) [행렬곱으로 신경망 나타내기](https://wikidocs.net/150781)|
-               ![image](https://github.com/user-attachments/assets/23eff274-70e4-457c-a368-ac5381d7a0f7) "내가 만들어본 1층짜리 XOR 퍼셉트론 : 이건 퍼셉트론이라 부를 수 있나?"
+|6주차|송지윤|=|
+|6주차|송지윤|=|
+|6주차|주은결|=|
+|6주차|김동욱|=|
+|6주차|김도율|=|
+|6주차|김세엽|=|
