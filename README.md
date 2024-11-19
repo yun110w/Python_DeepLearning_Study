@@ -32,7 +32,7 @@
 |주차|이름|링크|
 |---|---|---|
 |5주차|송지윤|https://ai0-0jiyun.tistory.com/13|
-|5주차|송지윤|https://ai0-0jiyun.tistory.com/14|
+||송지윤|https://ai0-0jiyun.tistory.com/14|
 |5주차|주은결|[연쇄법칙 설명](https://vegatrash.tistory.com/17)|
 |5주차|주은결|[구현참조](https://github.com/youbeebee/deeplearning_from_scratch/blob/master/ch5.%EC%98%A4%EC%B0%A8%EC%97%AD%EC%A0%84%ED%8C%8C%EB%B2%95/5.4.%EB%8B%A8%EC%88%9C%ED%95%9C%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.py)|
 |5주차|김동욱|=|
