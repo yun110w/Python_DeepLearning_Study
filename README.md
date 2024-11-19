@@ -14,7 +14,7 @@
 |3주차|송지윤|https://ai0-0jiyun.tistory.com/10|
 |3주차|주은결|https://mathbang.net/562#gsc.tab=0|
 |3주차|김동욱|=|
-|3주차|김도율|=|
+|3주차|김도율|https://kdy3138710.tistory.com/3|
 |3주차|김세엽|=|
 
 
@@ -24,7 +24,7 @@
 ||송지윤|https://ai0-0jiyun.tistory.com/12?category=1193701|
 |4주차|주은결|=|
 |4주차|김동욱|=|
-|4주차|김도율|=|
+|4주차|김도율|https://kdy3138710.tistory.com/4|
 |4주차|김세엽|=|
 
 
@@ -34,7 +34,7 @@
 |5주차|송지윤|https://ai0-0jiyun.tistory.com/14|
 |5주차|주은결|=|
 |5주차|김동욱|=|
-|5주차|김도율|=|
+|5주차|김도율|https://kdy3138710.tistory.com/5|
 |5주차|김세엽|=|
 
 
