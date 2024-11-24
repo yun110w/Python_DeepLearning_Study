@@ -44,7 +44,6 @@
 |---|---|---|
 |6주차|송지윤|https://ai0-0jiyun.tistory.com/15|
 ||송지윤|https://ai0-0jiyun.tistory.com/16|
-|6주차|송지윤|=|
 |6주차|주은결|=|
 |6주차|김동욱|=|
 |6주차|김도율|https://kdy3138710.tistory.com/7|
