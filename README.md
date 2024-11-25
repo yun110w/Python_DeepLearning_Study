@@ -44,7 +44,10 @@
 |---|---|---|
 |6주차|송지윤|https://ai0-0jiyun.tistory.com/15|
 ||송지윤|https://ai0-0jiyun.tistory.com/16|
-|6주차|주은결|=|
+|6주차|주은결|
+|[개념](https://velog.io/@kimkihoon0515/%EB%B0%91%EB%B0%94%ED%83%81%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-6%EC%9E%A5#overfitting)|
+|[베이지안 최적화1](https://data-scientist-brian-kim.tistory.com/88)|
+|[베이지안 최적화2](https://peimsam.tistory.com/716)|
 |6주차|김동욱|=|
 |6주차|김도율|https://kdy3138710.tistory.com/7|
 |6주차|김세엽|=|
